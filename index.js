@@ -19,4 +19,6 @@ var johnLennonFacts = function(n) {
 
 var iLoveTheBeatles = function(1) {
   var beat = []
+  do {beat.push()
+} while ([condition]);
 }
