@@ -17,4 +17,6 @@ var johnLennonFacts = function(n) {
   return facts
 }
 
-var 
+var iLoveTheBeatles = function(1) {
+  var beat = []
+}
