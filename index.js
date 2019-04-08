@@ -19,7 +19,7 @@ var johnLennonFacts = function(n) {
 
 var iLoveTheBeatles = function(n) {
   var beat = []
-  do { beat.push("I love the Beatles!")
-  } while (n < 15);
+  do { beat.push("I love the Beatles!"[n])
+  } while (n < 15); n++;
   return beat
 }
